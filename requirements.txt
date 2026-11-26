@@ -1,0 +1,17 @@
+# Entorno probado: Python 3.11 (Anaconda)
+# Instalar con: pip install -r requirements.txt
+tensorflow>=2.15
+autogluon.tabular[all]>=1.1
+# En Windows, si [all] falla: autogluon.tabular[lightgbm,catboost,xgboost,fastai]
+opencv-python
+Pillow
+scikit-learn
+scikit-image
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+ipykernel
+
+# Raspberry Pi 5 (solo la demo): pip install ai-edge-litert opencv-python Pillow numpy pandas

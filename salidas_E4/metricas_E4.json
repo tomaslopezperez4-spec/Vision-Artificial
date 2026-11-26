@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.9851851851851852,
+  "f1_macro": 0.9851815253989167,
+  "roc_auc_macro": 0.9998353909465022,
+  "latencia_cnn_ms": 19.307050039060414,
+  "latencia_autogluon_ms": 18.94005003850907,
+  "mejor_modelo": "WeightedEnsemble_L2",
+  "acc_hog_svm": 0.8851851851851852,
+  "f1_hog_svm": 0.8826548158222803,
+  "params_extractor": 2257984
+}

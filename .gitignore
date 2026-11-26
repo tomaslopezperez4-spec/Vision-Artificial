@@ -1,0 +1,25 @@
+# Modelos y artefactos pesados de AutoGluon (se regeneran con el notebook E4)
+salidas_E4/autogluon_modelo/
+salidas_E4/features_*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Capturas de la demo
+captura_*.png
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log

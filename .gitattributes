@@ -1,0 +1,15 @@
+# Normalizar finales de línea
+* text=auto
+
+*.py      text eol=lf
+*.md      text eol=lf
+*.json    text eol=lf
+*.csv     text eol=lf
+*.ipynb   text eol=lf
+
+# Archivos binarios
+*.png     binary
+*.jpg     binary
+*.keras   binary
+*.tflite  binary
+*.pkl     binary
